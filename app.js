@@ -51,5 +51,6 @@ let e3p5 = !isPresent2 || isPresent2;
 let e3p6 = 0 == false;
 let e3p7 = 0 === false;
 let e3p8 = 0 != false;
-console.log(e3p1, e3p2, e3p3, e3p4, e3p5, e3p6, e3p7, e3p8);
+let e3p9 = 0 !== false;
+console.log(e3p1, e3p2, e3p3, e3p4, e3p5, e3p6, e3p7, e3p8, e3p9);
 
